@@ -1,0 +1,13 @@
+## Scoring Table Template
+
+Use this table to capture scores, justification, and risk implications.
+
+```text
+| Dimension | Score (0–5) | Justification | Key Evidence | Risk Level (L/M/H) | Priority (L/M/H) |
+|-------------------------|-------------|-----------------------------------------|------------------------------------------|--------------------|------------------|
+| Architecture & Scalability | | | | | |
+| Security & Risk | | | | | |
+| DevOps & Reliability | | | | | |
+| Data & AI Engineering | | | | | |
+| Team & Process | | | | | |
+| Roadmap & Technical Debt| | | | | |
